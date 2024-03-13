@@ -1,0 +1,51 @@
+body {
+  background-color: black;
+}
+
+.css-header-name {
+  font-family: 'Anton', 'Arial';
+  letter-spacing: 15px;
+  font-size: 50px;
+}
+
+.carousel-img {
+  max-height: 700px;
+  margin: auto;
+}
+
+.css-text-pop {
+  text-shadow: 1px 2px 2px black;
+}
+
+.css-tab {
+  font-size: 40px;
+  color: white;
+}
+
+a[href$="1234567899"] {
+  background: url(../images/icons/phone-vibrate.svg) no-repeat center;
+  padding-right: 25px;
+  background-color: darkmagenta;
+  background-position: 89%;
+}
+
+a[href$="@gmail.com"] {
+  background: url(../images/icons/envelope-fill.svg) no-repeat center;
+  padding-right: 25px;
+  background-color: darkmagenta;
+  background-position: 92%;
+}
+
+a[href$="CJMonahann"] {
+  background: url(../images/icons/github.svg) no-repeat right center;
+  padding-right: 25px;
+  background-color: darkmagenta;
+  background-position: 93%;
+}
+
+a[href$="cornelius-monahan"] {
+  background: url(../images/icons/linkedin.svg) no-repeat center;
+  padding-right: 25px;
+  background-color: darkmagenta;
+  background-position: 95%;
+}
