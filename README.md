@@ -1,4 +1,4 @@
-#Static Personal Website Using Bootsrap 5
+# Static Personal Website Using Bootstrap 5
 
 This project was a first step into a web developement: my very own static personal website, crafted with Bootstrap 5. 
 This project was more than just a technical endeavor; it was a canvas for expressing my identity and showcasing my skills. 
